@@ -1,4 +1,5 @@
-    Site responsivo
+
+Site responsivo
  
 -Acesse o projeto na web: https://guedes-hub.github.io/responsivo/
 <br>
