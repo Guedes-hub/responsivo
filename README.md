@@ -15,4 +15,5 @@
 -Acesse o projeto na web: https://guedes-hub.github.io/responsivo/
 <br>
 <br>
-<img width="1717" height="912" alt="Captura de tela 2025-07-31 140822" src="https://github.com/user-attachments/assets/729cbccb-a8d6-4763-b246-e6dd977bcaa9" />
+<img width="1845" height="882" alt="Captura de tela 2025-08-04 105051" src="https://github.com/user-attachments/assets/6c9e48b3-5b1d-469e-9dd7-312bec17bca6" />
+
